@@ -37,3 +37,19 @@
 .mabelchiltern {
     color: gold;
 }
+
+table {
+    border: 5px solid darkblue;
+    color: tomato;
+    text-align: center;
+    padding: 5px;
+    margin: 5px;
+}
+
+th {
+    background-color: blueviolet;
+}
+
+tr:nth-child(odd) {
+    background-color: wheat;
+}
