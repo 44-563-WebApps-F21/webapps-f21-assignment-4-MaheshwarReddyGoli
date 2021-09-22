@@ -53,3 +53,8 @@ th {
 tr:nth-child(odd) {
     background-color: wheat;
 }
+
+.name:hover {
+    text-shadow: 2px 2px lightblue;
+    border: 2px solid blueviolet;
+}
